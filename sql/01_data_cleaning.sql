@@ -1,5 +1,5 @@
 ### Removing Nulls
-```sql
+--sql
 SELECT
   CustomerID,
   SUM(total_order_value) AS total_spent,
