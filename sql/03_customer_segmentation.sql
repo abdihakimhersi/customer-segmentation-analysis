@@ -1,4 +1,4 @@
-# Tital spent quartiles
+# Total spent quartiles
 SELECT
   approx_quantiles(total_spent, 4) AS total_spent_quartiles
 FROM(
