@@ -26,3 +26,5 @@
 - Advanced SQL & Query Optimization
 - Business Intelligence Visualization
 - Strategic Recommendation Development
+  
+[View Tableau Dashboard]((https://public.tableau.com/app/profile/abdi.hakim/viz/OnlineRetailData-CustomerSegmentationRetentionAnalysis/Dashboard1))
