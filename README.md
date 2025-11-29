@@ -1,13 +1,23 @@
-# Customer Geographic Segmentation Analysis
+# Customer Segmentation Analysis
 
-## Business Intelligence Project | SQL + Tableau
+## From Raw Data to Strategic Business Intelligence
 
-**Transforming raw retail data into actionable customer intelligence through statistical segmentation and geographic analysis.**
+*Transforming 500K+ retail transactions into actionable customer market intelligence using SQL and Tableau*
 
-### Project Value
-- **Identified** premium markets (Germany, Belgium, Switzerland) for targeted marketing
-- **Revealed** $1.6M+ high-value customer segment representing 25% of customer base
-- **Provided** data-driven strategy for international resource allocation
+---
+
+## Key Strategic Discovery
+
+**The Quality vs Quantity Dilemma in Customer Markets:**
+
+| High-Value Concentration Markets | High-Volume Opportunities |
+|-----------------------------------|---------------------------|
+| Belgium: 44% High-Value (25 customers) | 🇬🇧 UK: 23.2% High-Value (3,921 customers) |
+| Germany: 41.9% High-Value (94 customers) | |
+| Finland: 41.6% High-Value (12 customers) | |
+| Switzerland: 4.8% High-Value (21 customers) | |
+
+*This analysis reveals the critical strategic choice between focusing on premium niche markets vs optimizing massive volume opportunities.*
 
 ### Technical Implementation
 - **SQL**: Advanced queries with window functions, quantile analysis, data cleaning
