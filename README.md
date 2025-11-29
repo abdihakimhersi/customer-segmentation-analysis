@@ -6,6 +6,15 @@
 
 ---
 
+## Executive Summary
+
+This project identifies strategic geographic patterns in customer value segments to optimize international marketing strategy. Through statistical segmentation and geographic analysis, we discovered the critical **quality vs quantity dilemma** facing businesses: premium niche markets with high-value concentration vs massive volume opportunities with lower percentages but greater overall potential.
+
+**Key Business Impact:**
+- Identified 25% high-value customer segment driving disproportionate revenue
+- Revealed strategic trade-off between niche premium markets and mass market optimization
+- Provided data-driven framework for international resource allocation
+
 ## Key Strategic Discovery
 
 **The Quality vs Quantity Dilemma in Customer Markets:**
